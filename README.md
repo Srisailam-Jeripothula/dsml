@@ -1,2 +1,3 @@
-# dsml
+# dsml project
+mlops lecture
 
